@@ -4,7 +4,7 @@
   "description": "Week 03 Class Event Examples",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No tests specified, passing this step\"", 
     "start": "node event_example.js",
     "start:file": "node files_examples.js",
     "start:global": "node global_objects_example.js"
